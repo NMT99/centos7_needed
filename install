@@ -1,0 +1,1 @@
+sudo yum -y install vim nano epel-release bash-completion bash-completion-extras wget htop;
