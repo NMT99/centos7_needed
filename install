@@ -1,2 +1,2 @@
-sudo yum -y install epel-release wget git htop vim nano bash-completion bash-completion-extras ntfs-3g 
+sudo yum -y install epel-release wget git htop vim nano bash-completion bash-completion-extras ntfs-3g bind-utils
  
